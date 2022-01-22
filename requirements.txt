@@ -1,2 +1,2 @@
-Flask
-flask_mysql
+Flask==2.0.2
+flask_mysql==1.5.2
